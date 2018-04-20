@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://222.223.118.163:8029/angel.png</string>  
+                    <string>http://222.223.118.163:100/angel.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://222.223.118.163:8029/angel.png</string>  
+                    <string>http://222.223.118.163:100/angel.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
@@ -39,7 +39,7 @@
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>Angel App download</string>  
+                <string>开始安装Angel/string>  
             </dict>  
         </dict>  
     </array>  
