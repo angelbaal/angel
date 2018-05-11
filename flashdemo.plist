@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://222.223.118.163:100/flashdemo.ipa</string>
+					<string>http://222.223.118.163:100/HuanZhe.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>FlashDemo</string>
+				<string>HuanZhe</string>
 			</dict>
 		</dict>
 	</array>
