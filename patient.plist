@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hbzcrjkj.flashdemo</string>
+				<string>com.hbzcrjkj.patient</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
