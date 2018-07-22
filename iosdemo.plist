@@ -33,13 +33,13 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.hbzcrjkj.bxxt</string>  
+                <string>com.hbzcrjkj.doctor</string>  
                 <key>bundle-version</key>  
                 <string>1.0.0</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>子创报销</string>  
+                <string>医生工作站</string>  
             </dict>  
         </dict>  
     </array>  
